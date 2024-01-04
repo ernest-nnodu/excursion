@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.download-link {
+    color: aqua;
+}
+
+#landscape {
+    width: 60%;
+}
